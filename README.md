@@ -9,4 +9,4 @@ Incluye:
         
 En el script de gráficas está el código para representar la variable respuesta, 
 las distribuciones a posteriori de los efectos aleatorios de los modelos (2) y (3) 
-y distintas gráficas para visualizar los riesgos relativos y su cambio con el paso del tiempo.
+y distintas gráficas para visualizar los riesgos relativos del modelo (4) y su cambio con el paso del tiempo.
