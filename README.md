@@ -3,7 +3,7 @@ Modelos con INLA para analizar riesgos.
 
 Incluye: 
         modelo solo con covariables (1), 
-        modelo espacial (2), modelo espacial + efecto temporal heterogéneo (3) 
+        modelo espacial (2), modelo espacial + efecto temporal heterogéneo (3) y
         modelo espacio-temporal (4). 
         
 En el script de gráficas está el código para representar la variable respuesta, 
